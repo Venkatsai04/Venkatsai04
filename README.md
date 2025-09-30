@@ -1,6 +1,6 @@
 # Hi, I'm Venkat Sai Utharadhi 👋
 
-🚀 Full Stack Web Developer | MERN Stack | Frontend Enthusiast  
+🚀 Full Stack Web Developer | MERN Stack | Frontend Enthusiast | Embedded systems | IoT
 
 - 💻 Skilled in **React, Node.js, Express, MongoDB**  
 - 🎨 Love building **web animations & 3D scalable sites**  
