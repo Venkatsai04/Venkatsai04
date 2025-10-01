@@ -5,7 +5,8 @@
 - 💻 Skilled in **React, Node.js, Express, MongoDB**  
 - 🎨 Love building **web animations & 3D scalable sites**  
 - 🌱 Currently learning **system design & cloud (AWS, Redis, Kafka)**  
-- ⚡ Open to exciting opportunities in software development  
+- ⚡ Open to exciting opportunities in software development
+- 🤝 Open for collabs 
 
 ### 🔗 Connect with me
 - GitHub: [Venkatsai04](https://github.com/Venkatsai04)  
