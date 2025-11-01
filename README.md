@@ -1,4 +1,4 @@
-# Hi, I'm Venkat Sai Utharadhi 👋
+# Hi, I'm Venkat Sai  👋
 
 🚀 Full Stack Web Developer | MERN Stack | Frontend Enthusiast | Embedded systems | IoT
 
