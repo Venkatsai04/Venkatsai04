@@ -1,6 +1,6 @@
 # Hi, I'm Venkat Sai  👋
 
-🚀 Full Stack Web Developer | MERN Stack | Frontend Enthusiast | Embedded systems | IoT
+🚀 Full Stack Web Developer| Contract Developer | MERN Stack | Frontend Enthusiast | Embedded systems | IoT
 
 - 💻 Skilled in **React, Node.js, Express, MongoDB , JS/TS **  
 - 🎨 Love building **web animations & 3D scalable sites**  
